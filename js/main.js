@@ -3,7 +3,7 @@ jQuery(document).ready(function () {
     thumbnailHeight: 200,
     thumbnailWidth: 200,
     itemsBaseURL: 'img/',
-    thumbnailDisplayTransition: 'slideUp',
+    thumbnailDisplayTransition: 'slideDown',
     thumbnailHoverEffect2: 'scale120',
                         
     items: [
@@ -30,11 +30,11 @@ jQuery(document).ready(function () {
     thumbnailHoverEffect2: 'scale120',
                         
     items: [
-      {src: 'cuphead_promo_cuphead_mugman.png'},
-      {src: 'a_cuphead-bee-switch-transparent.png'},
-      {src: 'EDEb_KoX4AEXqgx.jpeg'},
-      {src: 'a_cuphead-devil-switch-transparent.png'},
-      {src: 'a_cuphead-genie-switch-transparent.png'},
+      {src: 'cuphead_promo_cuphead_mugman.png', title: "Xicrinha e Caneco"},
+      {src: 'a_cuphead-bee-switch-transparent.png', title: "Rumor Honeybottoms"},
+      {src: 'EDEb_KoX4AEXqgx.jpeg', title: "Cuphead, Mugman e a Ms. Chalice"},
+      {src: 'a_cuphead-devil-switch-transparent.png', title: "Devil"},
+      {src: 'a_cuphead-genie-switch-transparent.png', title: "Djimmi The Great"},
       {src: 'proxy.duckduckgo.com.jpeg'},
     ]
   });
@@ -44,7 +44,7 @@ jQuery(document).ready(function () {
     thumbnailWidth: 'auto',
     itemsBaseURL: 'img/',
     thumbnailDisplayTransition: 'slideUp',
-    thumbnailHoverEffect2: 'scale120|imageBlurOn',
+    thumbnailHoverEffect2: 'scale120|imageBlurOn|imageSepiaOn',
                         
     items: [
       {src: 'cuphead_screenshot_0001.png'},
