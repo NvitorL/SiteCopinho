@@ -1,0 +1,21 @@
+@font-face { font-family: "ch-vogue-bold"; src: url('CupheadVogue-ExtraBold.otf'); font-weight: bold; }
+@font-face { font-family: "ch-memphis-medium"; src: url('CupheadMemphis-Medium.otf'); }
+
+body {
+    background-color: #FFCF10;
+}
+
+header {
+    background-color: #e23c2c;
+}
+
+h2 {
+    font-family: ch-vogue-bold;
+    text-align: right;
+    padding-right: 2em;
+}
+
+footer {
+    text-align: center;
+    font-family: ch-memphis-medium;
+}
