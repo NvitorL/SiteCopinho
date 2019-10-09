@@ -33,7 +33,7 @@ jQuery(document).ready(function () {
       {src: 'cuphead_promo_cuphead_mugman.png', title: "Xicrinha e Caneco"},
       {src: 'a_cuphead-bee-switch-transparent.png', title: "Rumor Honeybottoms"},
       {src: 'EDEb_KoX4AEXqgx.jpeg', title: "Cuphead, Mugman e a Ms. Chalice"},
-      {src: 'a_cuphead-devil-switch-transparent.png', title: "Devil"},
+      {src: 'giphy.gif', title: "Devil"},
       {src: 'a_cuphead-genie-switch-transparent.png', title: "Djimmi The Great"},
       {src: 'proxy.duckduckgo.com.jpeg'},
     ]
